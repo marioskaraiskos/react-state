@@ -76,6 +76,6 @@ Contributions are welcome! Feel free to open issues and pull requests.
 
 <div align="center">
 
-Made with ❤️ by [Mario Karaiskos](https://github.com/marioskaraiskos)
+Made with ❤️ by [Marios Karaiskos](https://github.com/marioskaraiskos)
 
 </div>
